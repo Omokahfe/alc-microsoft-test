@@ -1,0 +1,15 @@
+version: '2'
+
+services:
+  node:
+    build:
+      context: .
+    ports:
+      - "${HOST_PORT}:3000"
+    links:
+      - mongodb
+    env_file:
+      - .env
+
+  mongodb:
+    build: ./docker-compose/mongodb
