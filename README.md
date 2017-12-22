@@ -14,7 +14,7 @@ This application was developed using [ExpressJS](http://expressjs.com/). MongoDB
 
 * Ensure that you've `node`, `docker` and `docker-compose` installed on your PC.
 
-* Clone the repository by entering the command `git clone https://github.com/codeprefect/alc-docker-demo.git` in the terminal.
+* Clone the repository by entering the command 'git clone https://github.com/Omokahfe/alc-microsoft-test.git' in the terminal.
 
 * Navigate to the project folder using `cd alc-docker-demo` on your terminal (or command prompt)
 
@@ -136,3 +136,6 @@ password: janedoe
 
 [**Olajide Bolaji 'Nuel**](https://github.com/BolajiOlajide)
 
+### Updated by
+
+[**Ojagun Omokahfe**](https://github.com/Omokahfe)
