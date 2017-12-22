@@ -1,4 +1,4 @@
-# chosen docker image, contains node and npm
+# docker image
 FROM node:alpine
 
 MAINTAINER Ojagun Omokahfe <kahfea@gmail.com>
